@@ -1,0 +1,81 @@
+body
+{
+    margin: 0px;
+    background-image: url(../img/background.jpg);
+    background-size: cover;
+}
+
+.head
+{
+    display: flex;
+}
+
+.navi
+{
+    margin: auto;
+    margin-top: 30px;
+    height: 65px;
+    width: 400px;
+    border: 3px solid #299BF0;
+    border-radius: 100px;
+    box-sizing: border-box;
+    display: flex;
+}
+
+.link
+{
+    margin: 0px auto;
+    color: white;
+    text-decoration: none;
+    padding: 20px 30px;
+    padding-top: 20px;
+}
+
+.navi2
+{
+    margin-left: 10px;
+}
+
+.q
+{
+    text-align: center;
+    display: block;
+    height: 30px;
+    width: 100px;
+    color: white;
+    border: 1px solid white;
+    margin-bottom: 5px;
+    box-sizing: border-box;
+    padding-top: 5px;
+    text-decoration: none;
+    border-radius: 10px;
+}
+
+.q:hover
+{
+    color: blanchedalmond;
+    border: 1px solid blanchedalmond;
+}
+
+.link:hover
+{
+    color: black;
+}
+
+h2
+{
+    color: gold;
+    font-size: 25px;
+    margin: 0px;
+}
+
+.oaoa
+{
+    margin-left: 200px;
+}
+
+.qw
+{
+    margin-top: 50px;
+    margin-left: 10px;
+}
